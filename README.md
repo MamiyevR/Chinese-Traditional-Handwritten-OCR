@@ -7,7 +7,7 @@ Traditional Chinese Handwritten OCR tools.
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install packages.
 
 ```bash
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Run
