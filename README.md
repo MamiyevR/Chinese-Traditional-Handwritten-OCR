@@ -21,3 +21,5 @@ TrOCR model: download pre-trained weights from [here](https://drive.google.com/d
 ```bash
 python TrOCR.py
 ```
+
+EasyOCR model: another model with full image text extraction capabilities but have less accuracy compared to Nanonets. With training and fine-tune, accuracy can be increased
